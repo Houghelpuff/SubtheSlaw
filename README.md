@@ -14,3 +14,5 @@ I decided to refactor the code and move it to a different tech stack. I decided 
   - No slaw
   - Drink option
   - Optional "Extras" field for special requests
+- Once the front end is functional I'll need to figure out how to deploy it on AWS
+  - I was planning on using an EC2 instance
